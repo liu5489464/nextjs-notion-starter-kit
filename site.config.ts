@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Game Engine Study',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it/7875426197cf461698809def95960ebf',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Mechilles',
 
   // open graph metadata (optional)
