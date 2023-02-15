@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Game Engine Study',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it/7875426197cf461698809def95960ebf',
-  author: 'Travis Fischer',
+  author: 'Mechilles',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
